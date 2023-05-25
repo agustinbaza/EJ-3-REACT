@@ -9,12 +9,14 @@ function Saludo(props) {
   };
 
   return (
+
     <div>
       <h1>
-        Hola {props.name} {mostrarMensaje && msj} !!
+        Hola {props.name} {mostrarMensaje && msj} !!!
       </h1>
       <button onClick={mostrar}>Mostrar mensaje</button>
     </div>
+
   );
 }
 
