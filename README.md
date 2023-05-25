@@ -19,6 +19,7 @@ Modificar el programa anterior agregando al componente un state con la clave msj
 ## ANOTACIONES 🔍
 
 - Por falta de tiempo, tuve que acceder a fuentes externas para lograr terminar el ejercicio, ya que mostraba cuando lo hice de mi manera mostraba el mensaje correctamente pero no se colocaba a la par, y depues de investigar consegui una solucion eficaz para lograr terminarlo.
+- Olvide cambiar el titulo de la pagina por el numero de ejercicio.
 
 ## Autor 🙋‍♂️
 - [Agustin Baza](https://github.com/agustinbaza)
